@@ -1,23 +1,32 @@
 # Healthcare-Billing-Data
-This project focuses on translating complex healthcare and mobile gaming datasets into actionable business intelligence using Tableau. It emphasizes creating interactive visualizations that allow stakeholders to monitor performance, evaluate data quality, and uncover longitudinal trends.
+This project focuses on translating complex healthcare and mobile gaming datasets into actionable business intelligence using Microsoft Excel. It emphasizes creating interactive dashboards and visual reports that allow stakeholders to monitor performance, evaluate data quality, and uncover long-term trends.
 
 # Project Summary
-The core objective is to move from raw data processing to high-level visual storytelling. By centralizing disparate data sources—such as patient billing records and game industry statistics—into a unified Tableau environment, the project provides real-time visibility into critical KPIs and industry shifts.
+
+The core objective is to transform raw data into meaningful insights through visual storytelling. By consolidating datasets such as patient billing records and game industry statistics into a unified Excel workbook, the project provides visibility into critical KPIs, financial patterns, and industry shifts.
 
 # Technical Tools
-Tableau Desktop / Public: The primary platform used for data visualization, dashboard orchestration, and the creation of interactive "Stories."
+Microsoft Excel: Primary tool used for data cleaning, analysis, dashboard creation, and reporting.
+Pivot Tables & Pivot Charts: Used to summarize large datasets and create interactive reports.
+Formulas & Functions: Utilized functions such as SUMIFS, COUNTIFS, IF, VLOOKUP/XLOOKUP, and INDEX-MATCH to derive metrics like Patient Out-of-Pocket Spend and Insurance Coverage Percentage.
+Conditional Formatting: Highlighted trends, outliers, and missing values.
+Data Validation & Filters: Ensured data accuracy and enabled dynamic exploration.
+Core Skills & Technical Expertise
+Business Intelligence & Dashboarding
 
-Calculated Fields: Used within Tableau to derive specific metrics such as "Patient Out-of-Pocket Spend" and "Average Insurance Coverage Percentage."
+Designed interactive Excel dashboards to monitor clinical and financial KPIs such as billing amounts, insurance coverage, and patient payment trends.
 
-# Core Skills & Technical Expertise
-Business Intelligence & Dashboarding: Designing intuitive layouts in Tableau that monitor clinical outcomes and financial health, such as recovery rates and hospital resource utilization.
+Advanced Visualization
 
-Advanced Visualization: Implementing specialized charts like Heatmaps (mapping bill size against coverage tiers) and Distribution Plots to identify financial outliers.
+Created Heatmaps, Trend Charts, Bar Charts, and Distribution Analysis to identify billing patterns, coverage gaps, and financial outliers.
 
-Data Integrity & Profiling: Using automated tools to identify missing data (11.1% identified in the gaming dataset) to ensure the accuracy of the final visualizations.
+Data Integrity & Profiling
 
-Domain-Specific Analysis: Tailoring dashboards for specific sectors, including:
+Performed data quality checks to detect duplicates, missing values, and inconsistencies, ensuring accurate and reliable reporting.
 
-Healthcare: Visualizing "Patient Billing & Coverage Insights" to identify high-risk financial clusters.
+Domain-Specific Analysis
+Healthcare: Developed Patient Billing & Coverage dashboards to identify high-cost treatment categories and insurance trends.
+Gaming Industry: Analyzed user ratings, revenue, and download metrics to identify market trends.
+Information Design
 
-Information Design: Utilizing custom color palettes and streamlined formatting to ensure that non-technical users can quickly interpret complex statistical relationships.
+Applied structured layouts, custom formatting, and intuitive color schemes to make complex data easy to understand for non-technical stakeholders.
