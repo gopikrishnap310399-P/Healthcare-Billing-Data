@@ -16,11 +16,11 @@ Business Intelligence & Dashboarding
 
 Designed interactive Excel dashboards to monitor clinical and financial KPIs such as billing amounts, insurance coverage, and patient payment trends.
 
-Advanced Visualization
+# Advanced Visualization
 
 Created Heatmaps, Trend Charts, Bar Charts, and Distribution Analysis to identify billing patterns, coverage gaps, and financial outliers.
 
-Data Integrity & Profiling
+# Data Integrity & Profiling
 
 Performed data quality checks to detect duplicates, missing values, and inconsistencies, ensuring accurate and reliable reporting.
 
